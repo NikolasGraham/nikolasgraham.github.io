@@ -1,3 +1,3 @@
 ## temp
 
-https://www.nikolasgraham.github.io
+https://nikolasgraham.github.io/
